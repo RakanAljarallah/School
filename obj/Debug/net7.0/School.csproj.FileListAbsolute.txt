@@ -1,0 +1,15 @@
+/Users/rakanaljarallah/Documents/c#-projects/school/School/bin/Debug/net7.0/School
+/Users/rakanaljarallah/Documents/c#-projects/school/School/bin/Debug/net7.0/School.deps.json
+/Users/rakanaljarallah/Documents/c#-projects/school/School/bin/Debug/net7.0/School.runtimeconfig.json
+/Users/rakanaljarallah/Documents/c#-projects/school/School/bin/Debug/net7.0/School.dll
+/Users/rakanaljarallah/Documents/c#-projects/school/School/bin/Debug/net7.0/School.pdb
+/Users/rakanaljarallah/Documents/c#-projects/school/School/obj/Debug/net7.0/School.csproj.AssemblyReference.cache
+/Users/rakanaljarallah/Documents/c#-projects/school/School/obj/Debug/net7.0/School.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rakanaljarallah/Documents/c#-projects/school/School/obj/Debug/net7.0/School.AssemblyInfoInputs.cache
+/Users/rakanaljarallah/Documents/c#-projects/school/School/obj/Debug/net7.0/School.AssemblyInfo.cs
+/Users/rakanaljarallah/Documents/c#-projects/school/School/obj/Debug/net7.0/School.csproj.CoreCompileInputs.cache
+/Users/rakanaljarallah/Documents/c#-projects/school/School/obj/Debug/net7.0/School.dll
+/Users/rakanaljarallah/Documents/c#-projects/school/School/obj/Debug/net7.0/refint/School.dll
+/Users/rakanaljarallah/Documents/c#-projects/school/School/obj/Debug/net7.0/School.pdb
+/Users/rakanaljarallah/Documents/c#-projects/school/School/obj/Debug/net7.0/School.genruntimeconfig.cache
+/Users/rakanaljarallah/Documents/c#-projects/school/School/obj/Debug/net7.0/ref/School.dll
