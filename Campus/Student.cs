@@ -13,7 +13,7 @@ namespace StudentA
         public bool isMale;
         public List<string> courses = new List<string>();
         byte maxNumberOfCourses = 5;
-
+        // this my comment
         public bool takeCourse(string courseName)
         {
             if (courses?.Count() > maxNumberOfCourses)
