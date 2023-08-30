@@ -1,18 +1,15 @@
 
 
 
-namespace StudentA
+namespace Students
 {
-    class Student
+    class Student : Person, Exam
     {
-        public string firstName;
-        public string lastName;
-        int id;
-        string birthDate;
         public float gpa = 5;
-        public bool isMale;
+
         public List<string> courses = new List<string>();
         byte maxNumberOfCourses = 5;
+
         // this my comment
         public bool takeCourse(string courseName)
         {
@@ -22,12 +19,20 @@ namespace StudentA
             }
             Console.WriteLine("I added this course " + courseName);
             courses.Add(courseName);
-
-
             return true;
         }
 
+        public void registerExam()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void takeExam()
+        {
+            throw new NotImplementedException();
+        }
     }
+
 }
 
 
